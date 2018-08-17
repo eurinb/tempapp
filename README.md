@@ -4,5 +4,4 @@ $ docker build -t tempapp .
 
 Run the docker image
 
-$ docker run -p 3000:3000 -d tempapp
-
+$ docker run -p 8080:8080 -d tempapp
